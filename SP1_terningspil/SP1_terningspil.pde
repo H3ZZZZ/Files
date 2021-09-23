@@ -28,8 +28,8 @@ void draw() {
 
 void keyPressed() {
   cup.shake();
-  
-  if(key == 's'){
-  cup.sort();
+
+  if (key == 's') {
+    cup.sort();
   }
 }
